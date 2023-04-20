@@ -14,6 +14,12 @@ Currently there are just few projects that support *Typescript* and *JavaScript*
 
 You can use the current projects by using `npx` or `npm init`. Check out one in our npm page [here](https://www.npmjs.com/package/@startertemp/nextjs-hardhat).
 
+## What are some of the current projects in NPM? 🔬
+
+- [Next JS, Solidity Typescript Starter Template](https://www.npmjs.com/package/@startertemp/nextjs-hardhat-ts)
+- [Next JS Stater Template](https://www.npmjs.com/package/@startertemp/nextjs-ts)
+- [Next JS, Solidity JavaScript Starter Template](https://www.npmjs.com/package/@startertemp/nextjs-hardhat)
+
 ## Can I submit my project into the @startertemp NPM Registry too? 👨‍🔧
 
 Ofcourse! Currently I don't share my credentials, but do let me know and I will help setting up the Repo on this organisation with the secrets.
